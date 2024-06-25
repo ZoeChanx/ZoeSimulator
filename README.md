@@ -1,2 +1,2 @@
 # ZoeSimulator
-Preformance art piece.
+Performance art piece.
